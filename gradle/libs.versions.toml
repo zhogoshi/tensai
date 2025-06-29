@@ -1,0 +1,11 @@
+[versions]
+lombok = "1.18.30"
+jetbrains-annotations = "24.1.0"
+jreleaser = "1.18.0"
+
+[libraries]
+lombok = { group = "org.projectlombok", name = "lombok", version.ref = "lombok" }
+jetbrains-annotations = { group = "org.jetbrains", name = "annotations", version.ref = "jetbrains-annotations" }
+
+[plugins]
+jreleaser = { id = "org.jreleaser", version.ref = "jreleaser" }
