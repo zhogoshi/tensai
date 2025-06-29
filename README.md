@@ -2,9 +2,6 @@
 
 A high-performance, annotation-based EventBus for Java applications with MethodHandles for optimal efficiency.
 
-## Showcase
-> You can check [demo examples](tensai/src/main/java/dev/hogoshi/tensai/test/) page for implementation examples.
-
 ## Features
 
 - High-performance event dispatching using MethodHandles instead of slow reflection
