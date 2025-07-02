@@ -21,7 +21,7 @@ repositories {
 }
 
 dependencies {
-    implementation("dev.hogoshi.tensai:tensai:1.0.0")
+    implementation("dev.hogoshi.tensai:tensai:X.X.X")
 }
 ```
 
@@ -32,12 +32,12 @@ dependencies {
     <dependency>
         <groupId>dev.hogoshi.tensai</groupId>
         <artifactId>tensai</artifactId>
-        <version>1.0.0</version>
+        <version>X.X.X</version>
     </dependency>
 </dependencies>
 ```
 
-> Note: Replace `1.0.0` with the desired version tag from the [releases page](https://github.com/zhogoshi/tensai/releases).
+> Note: Replace `X.X.X` with the desired version tag from the [releases page](https://github.com/zhogoshi/tensai/releases).
 
 ## Usage
 
